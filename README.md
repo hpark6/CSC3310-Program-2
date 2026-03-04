@@ -1,4 +1,4 @@
-# CSC3310-Program-2
+# Program 2: Divide and Conquer
 - [ ] A paragraph describing the approach you will use to solve the problem. Provide at least 2 illustrations that explain the
 approach.
 - [ ] High-level pseudocode for an algorithm that uses that rule to solve the computational problem for any input
